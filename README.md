@@ -73,7 +73,6 @@ $ hexo generate
 #### 1).绑定GitHub帐号
 
 ##### 依次点击以下按钮绑定Github帐号
-![](https://github.com/kamou12/hexo/raw/main/img/1.png)
 <img src="https://github.com/kamou12/hexo/raw/main/img/1.png" width="400px">
 <img src="./img/2.png" width="400px">
 
