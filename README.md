@@ -73,28 +73,28 @@ $ hexo generate
 #### 1).绑定GitHub帐号
 
 ##### 依次点击以下按钮绑定Github帐号
-<img src="./blog/img/1.png" width="400px">
-<img src="./blog/img/2.png" width="400px">
+<img src="https://github.com/kamou12/hexo/raw/mainimg/3.png" width="400px">
+<img src="./img/2.png" width="400px">
 
 #### 2).选择代码仓库
 
 ##### 绑定完成后选择想要部署的项目所在的代码仓库及主干分支并点击下一步
-<img src="./blog/img/3.png" width="400px">
+<img src="./img/3.png" width="400px">
 
 #### 3).填写应用的基本信息
 
 ##### 填写信息完成后将进入到开发部署界面
-<img src="./blog/img/4.png" width="400px">
+<img src="./img/4.png" width="400px">
 
 ### 2.开发部署配置
 
 #### 1).填写部署配置(以线上部署为例)
 ##### 按照"?"提示依次填写部署配置信息
-<img src="./blog/img/5.png" width="400px">
+<img src="./img/5.png" width="400px">
 
 #### 2).填写分支管理(以线上部署为例)
 ##### 可以按需选择新建分支和已有分支
-<img src="./blog/img/6.png" width="400px">
+<img src="./img/6.png" width="400px">
 
 #### 3). 进行项目的部署和查看
 ##### 项目在线上部署完成后即可查看
